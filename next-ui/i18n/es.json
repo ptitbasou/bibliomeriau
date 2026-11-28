@@ -114,7 +114,7 @@
     "defaultMessage": "Métricas"
   },
   "2p+JVw": {
-    "defaultMessage": "Este servidor Komga aún no se encuentra activo, necesitas generar una cuenta de usuario que garantize el acceso."
+    "defaultMessage": "Este servidor bibliomeriau aún no se encuentra activo, necesitas generar una cuenta de usuario que garantize el acceso."
   },
   "3DBPuv": {
     "defaultMessage": "Desplazamiento"
@@ -690,7 +690,7 @@
     "defaultMessage": "Metadatos del libro actualizados: {book}"
   },
   "PTr5Wc": {
-    "defaultMessage": "Comprueba que tu servidor Komga está en ejecución"
+    "defaultMessage": "Comprueba que tu servidor bibliomeriau está en ejecución"
   },
   "PguYSD": {
     "defaultMessage": "Sobrescribir lista de lectura existente"
@@ -735,7 +735,7 @@
     "defaultMessage": "Expandir barra lateral"
   },
   "Rm52xk": {
-    "defaultMessage": "Bienvenido a Komga"
+    "defaultMessage": "Bienvenido a bibliomeriau"
   },
   "RwuMl5": {
     "defaultMessage": "Reparar automáticamente las extensiones de archivo incorrectas"
@@ -861,7 +861,7 @@
     "defaultMessage": "Aún no se han creado claves API"
   },
   "WNY0pu": {
-    "defaultMessage": "La última versión de Komga ya está instalada"
+    "defaultMessage": "La última versión de bibliomeriau ya está instalada"
   },
   "WPxleH": {
     "defaultMessage": "Los archivos de libro serán eliminados<ul><li>Los archivos multimedia del libro serán eliminados del disco.</li><li>Los archivos que acompañan al libro serán eliminados del disco.</li><li>El libro será eliminado, así como sus metadatos y progreso de lectura.</li></ul><b>Esta acción no podrá deshacerse.</b>"
@@ -927,7 +927,7 @@
     "defaultMessage": "Tamaño de archivo"
   },
   "Y0cG3G": {
-    "defaultMessage": "La clave API será eliminada de este servidor.<ul><li>Cualquier aplicación o proceso que use esta clave API dejará de tener acceso a la API de Komga.</li><li>La actividad de autenticación para esta clave API será eliminada permanentemente.</li></ul><b>Esta acción no puede deshacerse.</b>"
+    "defaultMessage": "La clave API será eliminada de este servidor.<ul><li>Cualquier aplicación o proceso que use esta clave API dejará de tener acceso a la API de bibliomeriau.</li><li>La actividad de autenticación para esta clave API será eliminada permanentemente.</li></ul><b>Esta acción no puede deshacerse.</b>"
   },
   "Y4xJBN": {
     "defaultMessage": "Última modificación"
@@ -1833,7 +1833,7 @@
     "defaultMessage": "Resumen"
   },
   "uXY7Eg": {
-    "defaultMessage": "Logo Komga"
+    "defaultMessage": "Logo bibliomeriau"
   },
   "uY7N6Z": {
     "defaultMessage": "Perfil multimedia"

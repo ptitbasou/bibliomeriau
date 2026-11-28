@@ -86,7 +86,7 @@
           :label="
             $formatMessage({
               description: 'User creation/edit dialog: Shared Libraries field',
-              defaultMessage: 'Shared Libraries',
+              defaultMessage: 'Shared Shelves',
               id: 'UvhIIT',
             })
           "
@@ -102,8 +102,8 @@
               :text="
                 $formatMessage({
                   description:
-                    'User creation/edit dialog: Shared Libraries field, value shown when user has access to all libraries',
-                  defaultMessage: 'All libraries',
+                    'User creation/edit dialog: Shared Shelves field, value shown when user has access to all shelves',
+                  defaultMessage: 'All shelves',
                   id: 'app.user-create-dialog.all_libraries',
                 })
               "
@@ -125,8 +125,8 @@
               :title="
                 $formatMessage({
                   description:
-                    'User creation/edit dialog: Shared Libraries field, value shown when user has access to all libraries',
-                  defaultMessage: 'All libraries',
+                    'User creation/edit dialog: Shared Shelves field, value shown when user has access to all shelves',
+                  defaultMessage: 'All shelves',
                   id: 'app.user-create-dialog.all_libraries',
                 })
               "

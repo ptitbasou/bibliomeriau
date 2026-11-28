@@ -12,7 +12,7 @@
     :text="
       $formatMessage({
         description: 'Media analysis: text',
-        defaultMessage: 'Books in error can now be filtered directly in the main library view.',
+        defaultMessage: 'Books in error can now be filtered directly in the main shelf view.',
         id: 'YeFgyc',
       })
     "

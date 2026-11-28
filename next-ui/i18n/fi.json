@@ -111,7 +111,7 @@
     "defaultMessage": "Metriikat"
   },
   "2p+JVw": {
-    "defaultMessage": "Tämä Komga-palvelin ei ole vielä aktiivinen. Sinun täytyy luoda käyttäjätili voidaksesi käyttää sitä."
+    "defaultMessage": "Tämä bibliomeriau-palvelin ei ole vielä aktiivinen. Sinun täytyy luoda käyttäjätili voidaksesi käyttää sitä."
   },
   "3DBPuv": {
     "defaultMessage": "Rullaa"
@@ -645,7 +645,7 @@
     "defaultMessage": "Kirjan metatiedot päivitetty: {book}"
   },
   "PTr5Wc": {
-    "defaultMessage": "Tarkista, että Komga-palvelimesi toimii"
+    "defaultMessage": "Tarkista, että bibliomeriau-palvelimesi toimii"
   },
   "PguYSD": {
     "defaultMessage": "Korvaa nykyinen lukulista"
@@ -690,7 +690,7 @@
     "defaultMessage": "Laajenna sivupalkki"
   },
   "Rm52xk": {
-    "defaultMessage": "Tervetuloa Komgaan"
+    "defaultMessage": "Tervetuloa bibliomeriauan"
   },
   "RwuMl5": {
     "defaultMessage": "Korjaa virheelliset tiedostopäätteet automaattisesti"
@@ -798,6 +798,6 @@
     "defaultMessage": "API-avaimia ei ole vielä luotu"
   },
   "WNY0pu": {
-    "defaultMessage": "Uusin Komgan versio on jo asennettu"
+    "defaultMessage": "Uusin bibliomeriaun versio on jo asennettu"
   }
 }

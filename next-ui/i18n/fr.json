@@ -6,7 +6,7 @@
     "defaultMessage": "Aucune donnée trouvée"
   },
   "+8++PW": {
-    "defaultMessage": "Bibliothèque créée : {library}"
+    "defaultMessage": "Étagère créée : {library}"
   },
   "+C/+3o": {
     "defaultMessage": "La liste ne peut pas être vide"
@@ -93,7 +93,7 @@
     "defaultMessage": "Fermer la barre latérale"
   },
   "0MePSx": {
-    "defaultMessage": "Faire glisser ici pour épingler une bibliothèque"
+    "defaultMessage": "Faire glisser ici pour épingler une étagère"
   },
   "0OEO+j": {
     "defaultMessage": "Genres"
@@ -123,7 +123,7 @@
     "defaultMessage": "FILTRES"
   },
   "1+Ux6s": {
-    "defaultMessage": "Créez une bibliothèque pour commencer"
+    "defaultMessage": "Créez une étagère pour commencer"
   },
   "111Isd": {
     "defaultMessage": "Reconstruire l’index de recherche"
@@ -177,7 +177,7 @@
     "defaultMessage": "Statistiques"
   },
   "2p+JVw": {
-    "defaultMessage": "Ce serveur Komga n’est pas encore activé : vous devez créer un compte utilisateur pour y accéder."
+    "defaultMessage": "Ce serveur bibliomeriau n’est pas encore activé : vous devez créer un compte utilisateur pour y accéder."
   },
   "2uUiqM": {
     "defaultMessage": "Ordre des séries"
@@ -198,7 +198,7 @@
     "defaultMessage": "Nom du fichier de destination"
   },
   "3T1ln7": {
-    "defaultMessage": "Supprimer la bibliothèque"
+    "defaultMessage": "Supprimer l'étagère"
   },
   "3W0jUi": {
     "defaultMessage": "Exclure les étiquettes"
@@ -210,7 +210,7 @@
     "defaultMessage": "Supprimer la clé API"
   },
   "3gimvl": {
-    "defaultMessage": "menu de la bibliothèque"
+    "defaultMessage": "menu de l'étagère"
   },
   "3lLmfX": {
     "defaultMessage": "Collection"
@@ -273,7 +273,7 @@
     "defaultMessage": "Mot de passe"
   },
   "5JGOUU": {
-    "defaultMessage": "Analyser la bibliothèque"
+    "defaultMessage": "Analyser l'étagère"
   },
   "5Qha5m": {
     "defaultMessage": "Tri manuel"
@@ -327,13 +327,13 @@
     "defaultMessage": "Sombre"
   },
   "6eAECF": {
-    "defaultMessage": "Bibliothèque"
+    "defaultMessage": "Étagère"
   },
   "6nCIPn": {
     "defaultMessage": "Type"
   },
   "70/wK4": {
-    "defaultMessage": "Créer une bibliothèque"
+    "defaultMessage": "Créer une étagère"
   },
   "700A3r": {
     "defaultMessage": "Livre"
@@ -402,7 +402,7 @@
     "defaultMessage": "Supprimer"
   },
   "8xonXJ": {
-    "defaultMessage": "Analyse tous les fichiers de la bibliothèque pour recueillir des informations sur chacun. Selon la taille de votre bibliothèque, cela peut prendre beaucoup de temps."
+    "defaultMessage": "Analyse tous les fichiers de l'étagère pour recueillir des informations sur chacun. Selon la taille de votre étagère, cela peut prendre beaucoup de temps."
   },
   "9/1/c7": {
     "defaultMessage": "Générer la vignette du livre"
@@ -411,7 +411,7 @@
     "defaultMessage": "La collection doit contenir au moins une série"
   },
   "90yqRq": {
-    "defaultMessage": "ajouter une bibliothèque"
+    "defaultMessage": "ajouter une étagère"
   },
   "98Q8V7": {
     "defaultMessage": "Retirer"
@@ -513,7 +513,7 @@
     "defaultMessage": "Le fichier du livre a été modifié et devra être analysé de nouveau"
   },
   "CJaS7j": {
-    "defaultMessage": "Dossier racine de la bibliothèque"
+    "defaultMessage": "Dossier racine de l'étagère"
   },
   "CMuDjt": {
     "defaultMessage": "détails de l’activité"
@@ -534,7 +534,7 @@
     "defaultMessage": "Éditeur"
   },
   "CY8sfH": {
-    "defaultMessage": "Scanner toutes les bibliothèques"
+    "defaultMessage": "Scanner toutes les étagères"
   },
   "CkUPZe": {
     "defaultMessage": "Le format du fichier du livre n’est pas pris en charge"
@@ -552,7 +552,7 @@
     "defaultMessage": "Aucune activité récente"
   },
   "CwteMk": {
-    "defaultMessage": "Vider la corbeille de toutes les bibliothèques"
+    "defaultMessage": "Vider la corbeille de toutes les étagères"
   },
   "CxuwFR": {
     "defaultMessage": "Type de fichier non pris en charge"
@@ -615,7 +615,7 @@
     "defaultMessage": "Numéro"
   },
   "ELl0N9": {
-    "defaultMessage": "Les livres sans couverture peuvent désormais être filtrés directement dans la vue principale de la bibliothèque."
+    "defaultMessage": "Les livres sans couverture peuvent désormais être filtrés directement dans la vue principale de l'étagère."
   },
   "ELttw/": {
     "defaultMessage": "Vider la corbeille"
@@ -687,7 +687,7 @@
     "defaultMessage": "Tout afficher"
   },
   "GCwZB2": {
-    "defaultMessage": "Scanner les fichiers de la bibliothèque"
+    "defaultMessage": "Scanner les fichiers de l'étagère"
   },
   "GnHrCd": {
     "defaultMessage": "Utiliser les illustrations locales"
@@ -696,13 +696,13 @@
     "defaultMessage": "Série"
   },
   "GyRV+/": {
-    "defaultMessage": "À activer si la bibliothèque est hébergée sur Google Drive"
+    "defaultMessage": "À activer si l'étagère est hébergée sur Google Drive"
   },
   "GySX8C": {
     "defaultMessage": "Vider automatiquement la corbeille après chaque scan"
   },
   "H+LXXE": {
-    "defaultMessage": "Faire glisser ici pour désépingler une bibliothèque"
+    "defaultMessage": "Faire glisser ici pour désépingler une étagère"
   },
   "H1+81t": {
     "defaultMessage": "Manuellement"
@@ -738,7 +738,7 @@
     "defaultMessage": "Fermer"
   },
   "HaF+a6": {
-    "defaultMessage": "Bibliothèques"
+    "defaultMessage": "Étagères"
   },
   "HaWCi3": {
     "defaultMessage": "Paramètres"
@@ -993,7 +993,7 @@
     "defaultMessage": "Aller au livre précédent de la série"
   },
   "PTr5Wc": {
-    "defaultMessage": "Vérifiez que votre serveur Komga est en marche"
+    "defaultMessage": "Vérifiez que votre serveur bibliomeriau est en marche"
   },
   "PUU04H": {
     "defaultMessage": "Remplir le cadre des couvertures"
@@ -1011,7 +1011,7 @@
     "defaultMessage": "État"
   },
   "PvKF7E": {
-    "defaultMessage": "Bibliothèque supprimée : {library}"
+    "defaultMessage": "Étagère supprimée : {library}"
   },
   "Q7tJAG": {
     "defaultMessage": "Liste de lecture"
@@ -1062,7 +1062,7 @@
     "defaultMessage": "{count, plural, one {# livre mis à jour} other {# livres mis à jour} }"
   },
   "Rm52xk": {
-    "defaultMessage": "Bienvenue dans Komga"
+    "defaultMessage": "Bienvenue dans bibliomeriau"
   },
   "Rt/kZN": {
     "defaultMessage": "{first} et {rest, plural, one {# autre livre} other {# autres livres} }"
@@ -1194,7 +1194,7 @@
     "defaultMessage": "Aucun résultat"
   },
   "UvhIIT": {
-    "defaultMessage": "Bibliothèques partagées"
+    "defaultMessage": "Étagères partagées"
   },
   "UxBl+J": {
     "defaultMessage": "Clair"
@@ -1254,7 +1254,7 @@
     "defaultMessage": "Aucune clé API créée pour l’instant"
   },
   "WNY0pu": {
-    "defaultMessage": "La dernière version de Komga est déjà installée"
+    "defaultMessage": "La dernière version de bibliomeriau est déjà installée"
   },
   "WPxleH": {
     "defaultMessage": "Les fichiers du livre vont être supprimés<ul><li>Le fichier du livre sera supprimé du disque.</li><li>Les fichiers annexes du livre seront supprimés du disque.</li><li>Le livre sera supprimé, ainsi que ses métadonnées et sa progression de lecture.</li></ul><b>Cette action est irréversible.</b>"
@@ -1338,7 +1338,7 @@
     "defaultMessage": "Taille du fichier"
   },
   "Y0cG3G": {
-    "defaultMessage": "La clé API va être supprimée de ce serveur.<ul><li>Les applications ou scripts qui utilisent cette clé API ne pourront plus accéder à l’API de Komga.</li><li>L’activité d’authentification de cette clé API sera définitivement supprimée.</li></ul><b>Cette action est irréversible.</b>"
+    "defaultMessage": "La clé API va être supprimée de ce serveur.<ul><li>Les applications ou scripts qui utilisent cette clé API ne pourront plus accéder à l’API de bibliomeriau.</li><li>L’activité d’authentification de cette clé API sera définitivement supprimée.</li></ul><b>Cette action est irréversible.</b>"
   },
   "Y4xJBN": {
     "defaultMessage": "Dernière modification"
@@ -1365,7 +1365,7 @@
     "defaultMessage": "IP"
   },
   "YeFgyc": {
-    "defaultMessage": "Les livres en erreur peuvent désormais être filtrés directement dans la vue principale de la bibliothèque."
+    "defaultMessage": "Les livres en erreur peuvent désormais être filtrés directement dans la vue principale de l'étagère."
   },
   "YeUvoE": {
     "defaultMessage": "Rôle personnalisé…"
@@ -1437,7 +1437,7 @@
     "defaultMessage": "Supprimer"
   },
   "aOiU5f": {
-    "defaultMessage": "Bibliothèque mise à jour : {library}"
+    "defaultMessage": "Étagère mise à jour : {library}"
   },
   "aR6KDt": {
     "defaultMessage": "Langue"
@@ -1458,7 +1458,7 @@
     "defaultMessage": "Dossier racine"
   },
   "am3r7e": {
-    "defaultMessage": "Modifier la bibliothèque"
+    "defaultMessage": "Modifier l'étagère"
   },
   "anhfpP": {
     "defaultMessage": "Type de fichier non pris en charge"
@@ -1503,13 +1503,13 @@
     "defaultMessage": "Dossier inaccessible, ou ce n’est pas un dossier"
   },
   "app.error.ERR_1017": {
-    "defaultMessage": "Impossible de scanner un dossier qui fait partie d’une bibliothèque existante"
+    "defaultMessage": "Impossible de scanner un dossier qui fait partie d’une étagère existante"
   },
   "app.error.ERR_1018": {
     "defaultMessage": "Fichier introuvable"
   },
   "app.error.ERR_1019": {
-    "defaultMessage": "Impossible d’importer un fichier qui fait partie d’une bibliothèque existante"
+    "defaultMessage": "Impossible d’importer un fichier qui fait partie d’une étagère existante"
   },
   "app.error.ERR_1020": {
     "defaultMessage": "Le livre à mettre à niveau n’appartient pas à la série indiquée"
@@ -1572,7 +1572,7 @@
     "defaultMessage": "Erreur lors de la lecture des positions de l’EPUB"
   },
   "app.user-create-dialog.all_libraries": {
-    "defaultMessage": "Toutes les bibliothèques"
+    "defaultMessage": "Toutes les étagères"
   },
   "ayrmyn": {
     "defaultMessage": "Titre pour le tri"
@@ -1614,7 +1614,7 @@
     "defaultMessage": "Nom du type"
   },
   "bk1tX8": {
-    "defaultMessage": "La bibliothèque va être supprimée de ce serveur.<ul><li>Les séries et les livres seront supprimés, ainsi que leurs métadonnées et leur progression de lecture.</li><li>Les fichiers ne seront pas supprimés du disque.</li></ul><b>Cette action est irréversible.</b>"
+    "defaultMessage": "l'étagère va être supprimée de ce serveur.<ul><li>Les séries et les livres seront supprimés, ainsi que leurs métadonnées et leur progression de lecture.</li><li>Les fichiers ne seront pas supprimés du disque.</li></ul><b>Cette action est irréversible.</b>"
   },
   "bqoEfm": {
     "defaultMessage": "Calculer l’empreinte des pages du livre"
@@ -1623,7 +1623,7 @@
     "defaultMessage": "Rechercher"
   },
   "bzn96A": {
-    "defaultMessage": "Créer une bibliothèque"
+    "defaultMessage": "Créer une étagère"
   },
   "c+hx0g": {
     "defaultMessage": "Utilisateurs"
@@ -1908,7 +1908,7 @@
     "defaultMessage": "Général"
   },
   "eyYZUe": {
-    "defaultMessage": "Bibliothèques"
+    "defaultMessage": "Étagères"
   },
   "ezgnXr": {
     "defaultMessage": "Confirmer le mot de passe"
@@ -1980,7 +1980,7 @@
     "defaultMessage": "Étiquette de partage"
   },
   "hJEc5M": {
-    "defaultMessage": "menu des bibliothèques"
+    "defaultMessage": "menu des étagères"
   },
   "hPYi11": {
     "defaultMessage": "Sens de lecture"
@@ -2097,7 +2097,7 @@
     "defaultMessage": "Couverture"
   },
   "kDc7YL": {
-    "defaultMessage": "Par défaut, le serveur ne supprime pas immédiatement les informations des médias disparus, ce qui est utile si un disque est temporairement déconnecté. Vider la corbeille d’une bibliothèque supprime toutes les informations sur les médias manquants."
+    "defaultMessage": "Par défaut, le serveur ne supprime pas immédiatement les informations des médias disparus, ce qui est utile si un disque est temporairement déconnecté. Vider la corbeille d’une étagère supprime toutes les informations sur les médias manquants."
   },
   "kFQatO": {
     "defaultMessage": "Afficher les filtres"
@@ -2106,7 +2106,7 @@
     "defaultMessage": "Aucune activité récente"
   },
   "kHmCVM": {
-    "defaultMessage": "Scanner la bibliothèque"
+    "defaultMessage": "Scanner l'étagère"
   },
   "kMw47z": {
     "defaultMessage": "Retirer de la liste de lecture"
@@ -2241,7 +2241,7 @@
     "defaultMessage": "Choisir le livre"
   },
   "nuoJ1n": {
-    "defaultMessage": "Créer une bibliothèque"
+    "defaultMessage": "Créer une étagère"
   },
   "nyxfPy": {
     "defaultMessage": "Les éléments « AlternateSeries » ou « StoryArc » seront utilisés"
@@ -2280,7 +2280,7 @@
     "defaultMessage": "Aucune valeur"
   },
   "pCBNlA": {
-    "defaultMessage": "Bibliothèque"
+    "defaultMessage": "Étagère"
   },
   "pENCUD": {
     "defaultMessage": "Annuler"
@@ -2301,7 +2301,7 @@
     "defaultMessage": "Livres"
   },
   "phzvRy": {
-    "defaultMessage": "Bibliothèque"
+    "defaultMessage": "Étagère"
   },
   "pvD6TS": {
     "defaultMessage": "Comparer"
@@ -2373,7 +2373,7 @@
     "defaultMessage": "Gestion des fichiers"
   },
   "rm0c6Y": {
-    "defaultMessage": "Ce serveur n’a encore aucune bibliothèque"
+    "defaultMessage": "Ce serveur n’a encore aucune étagère"
   },
   "rnClur": {
     "defaultMessage": "{rating}+"
@@ -2397,7 +2397,7 @@
     "defaultMessage": "ISBN"
   },
   "s1nzhU": {
-    "defaultMessage": "Nom de la bibliothèque"
+    "defaultMessage": "Nom de l'étagère"
   },
   "sGsWvI": {
     "defaultMessage": "Changer le mot de passe"
@@ -2523,13 +2523,13 @@
     "defaultMessage": "Résumé"
   },
   "uXY7Eg": {
-    "defaultMessage": "Logo de Komga"
+    "defaultMessage": "Logo de bibliomeriau"
   },
   "uY7N6Z": {
     "defaultMessage": "Profil de média"
   },
   "uoc99F": {
-    "defaultMessage": "Peut consommer beaucoup de ressources sur les grandes bibliothèques ou le matériel peu puissant"
+    "defaultMessage": "Peut consommer beaucoup de ressources sur les grandes étagères ou le matériel peu puissant"
   },
   "upo+2b": {
     "defaultMessage": "Candidat"
@@ -2565,7 +2565,7 @@
     "defaultMessage": "Échec de l’importation du livre"
   },
   "vs88Ef": {
-    "defaultMessage": "Actualise les métadonnées de tous les fichiers de la bibliothèque. Selon la taille de votre bibliothèque, cela peut prendre beaucoup de temps."
+    "defaultMessage": "Actualise les métadonnées de tous les fichiers de l'étagère. Selon la taille de votre étagère, cela peut prendre beaucoup de temps."
   },
   "vtBARB": {
     "defaultMessage": "Illustration générée"
@@ -2634,7 +2634,7 @@
     "defaultMessage": "Dernière activité"
   },
   "y3nPgO": {
-    "defaultMessage": "Effectue un scan approfondi des fichiers de la bibliothèque. Selon la taille de votre bibliothèque, cela peut prendre beaucoup de temps."
+    "defaultMessage": "Effectue un scan approfondi des fichiers de l'étagère. Selon la taille de votre étagère, cela peut prendre beaucoup de temps."
   },
   "y5GoQ3": {
     "defaultMessage": "Ouvrir le menu utilisateur"

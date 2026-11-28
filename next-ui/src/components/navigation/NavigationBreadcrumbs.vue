@@ -147,7 +147,7 @@ function getContextSubtitle(type: SingleBrowsingContext['type']): string {
     case 'libraryView':
       return intl.formatMessage({
         description: 'Browsing context: library',
-        defaultMessage: 'Library',
+        defaultMessage: 'Shelf',
         id: 'pCBNlA',
       })
   }

@@ -11,7 +11,7 @@
     :text="
       $formatMessage({
         description: 'Server unreachable error view: error message subtitle',
-        defaultMessage: 'Check that your Komga server is running',
+        defaultMessage: 'Check that your bibliomeriau server is running',
         id: 'PTr5Wc',
       })
     "

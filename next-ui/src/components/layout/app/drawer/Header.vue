@@ -6,7 +6,7 @@
           <v-img src="@/assets/logo.svg" />
         </v-avatar>
       </RouterLink>
-      Komga
+      bibliomeriau
     </div>
     <v-divider />
   </template>

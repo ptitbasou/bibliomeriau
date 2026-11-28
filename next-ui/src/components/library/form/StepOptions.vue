@@ -96,7 +96,7 @@
               v-ktooltip:bottom="{
                 text: $formatMessage({
                   description:
-                    'Form add/edit library: Options - koreader hash - information tooltip',
+                    'Form add/edit shelf: Options - koreader hash - information tooltip',
                   defaultMessage: 'Enable this if you use KOReader Sync',
                   id: 'DNmepU',
                 }),
@@ -124,7 +124,7 @@
               v-ktooltip:bottom="{
                 text: $formatMessage({
                   description:
-                    'Form add/edit library: Options - analyze page dimensions - information tooltip',
+                    'Form add/edit shelf: Options - analyze page dimensions - information tooltip',
                   defaultMessage: 'Required for the WebReader to detect landscape pages',
                   id: 'ByRsV9',
                 }),

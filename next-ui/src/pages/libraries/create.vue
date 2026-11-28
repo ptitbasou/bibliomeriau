@@ -4,7 +4,7 @@
       :title="
         $formatMessage({
           description: 'No libraries view: title',
-          defaultMessage: 'Welcome to Komga',
+          defaultMessage: 'Welcome to bibliomeriau',
           id: 'Rm52xk',
         })
       "
@@ -12,12 +12,12 @@
         isAdmin
           ? $formatMessage({
               description: 'No libraries view: subtitle for admin',
-              defaultMessage: 'Create a library to get started',
+              defaultMessage: 'Create a shelf to get started',
               id: '1+Ux6s',
             })
           : $formatMessage({
               description: 'No libraries view: subtitle for non-admin',
-              defaultMessage: 'This server does not have any library yet',
+              defaultMessage: 'This server does not have any shelf yet',
               id: 'rm0c6Y',
             })
       "
@@ -38,7 +38,7 @@
           :text="
             $formatMessage({
               description: 'No libraries view: button',
-              defaultMessage: 'Create library',
+              defaultMessage: 'Create shelf',
               id: 'bzn96A',
             })
           "

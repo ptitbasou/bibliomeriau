@@ -18,7 +18,7 @@
               {{
                 $formatMessage({
                   description: 'Updates view: banner shown at the top',
-                  defaultMessage: 'The latest version of Komga is already installed',
+                  defaultMessage: 'The latest version of bibliomeriau is already installed',
                   id: 'WNY0pu',
                 })
               }}

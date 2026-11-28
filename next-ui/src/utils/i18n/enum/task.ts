@@ -3,7 +3,7 @@ import { defineMessage, type MessageDescriptor } from 'vue-intl'
 export const taskNameMessage: Record<string, MessageDescriptor> = {
   ScanLibrary: defineMessage({
     description: 'Task name: ScanLibrary',
-    defaultMessage: 'Scan library',
+    defaultMessage: 'Scan shelf',
     id: 'kHmCVM',
   }),
   FindBooksToConvert: defineMessage({

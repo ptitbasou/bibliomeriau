@@ -13,7 +13,7 @@
       $formatMessage({
         description: 'Missing posters: text',
         defaultMessage:
-          'Books with missing posters can now be filtered directly in the main library view.',
+          'Books with missing posters can now be filtered directly in the main shelf view.',
         id: 'ELl0N9',
       })
     "

@@ -167,7 +167,7 @@ const {
   countAll: filtersCountAll,
 } = useFilters(
   [
-    'library',
+    'shelf',
     'mediaStatus',
     'profile',
     'read',

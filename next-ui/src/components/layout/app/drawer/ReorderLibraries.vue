@@ -39,7 +39,7 @@
         :title="
           $formatMessage({
             description: 'Reorder library drawer: placeholder if no libraries are pinned',
-            defaultMessage: 'Drag here to pin a library',
+            defaultMessage: 'Drag here to pin a shelf',
             id: '0MePSx',
           })
         "
@@ -76,7 +76,7 @@
         :title="
           $formatMessage({
             description: 'Reorder library drawer: placeholder if no libraries are unpinned',
-            defaultMessage: 'Drag here to unpin a library',
+            defaultMessage: 'Drag here to unpin a shelf',
             id: 'H+LXXE',
           })
         "

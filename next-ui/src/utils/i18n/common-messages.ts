@@ -33,7 +33,7 @@ export const commonMessages = {
   }),
   resourceIntensive: defineMessage({
     description: 'Resource intensive analysis warning',
-    defaultMessage: 'Can consume lots of resources on large libraries or slow hardware',
+    defaultMessage: 'Can consume lots of resources on large shelves or slow hardware',
     id: 'uoc99F',
   }),
   dialogEmptyTrashTitle: defineMessage({
@@ -49,7 +49,7 @@ export const commonMessages = {
   dialogEmptyTrashNotice: defineMessage({
     description: 'Library empty trash dialog: warning text',
     defaultMessage:
-      "By default the media server doesn't remove information for media right away. This helps if a drive is temporarily disconnected. When you empty the trash for a library, all information about missing media is deleted.",
+      "By default the media server doesn't remove information for media right away. This helps if a drive is temporarily disconnected. When you empty the trash for a shelf, all information about missing media is deleted.",
     id: 'kDc7YL',
   }),
   filterPanelHeader: defineMessage({
@@ -94,7 +94,7 @@ export const commonMessages = {
   }),
   filterPanelLibrary: defineMessage({
     description: 'Filter panel: Library',
-    defaultMessage: 'Library',
+    defaultMessage: 'Shelf',
     id: 'phzvRy',
   }),
   filterPanelGenre: defineMessage({

@@ -177,7 +177,7 @@
     "defaultMessage": "性能指标"
   },
   "2p+JVw": {
-    "defaultMessage": "此 Komga 服务器尚未激活，您需要创建一个用户账户才能访问它。"
+    "defaultMessage": "此 bibliomeriau 服务器尚未激活，您需要创建一个用户账户才能访问它。"
   },
   "2uUiqM": {
     "defaultMessage": "系列排序"
@@ -993,7 +993,7 @@
     "defaultMessage": "返回系列中的上一本"
   },
   "PTr5Wc": {
-    "defaultMessage": "请检查您的 Komga 服务器是否正在运行"
+    "defaultMessage": "请检查您的 bibliomeriau 服务器是否正在运行"
   },
   "PUU04H": {
     "defaultMessage": "拉伸海报以适合卡片"
@@ -1062,7 +1062,7 @@
     "defaultMessage": "{count, plural, one {# 书籍} other {# 书籍} } 已更新"
   },
   "Rm52xk": {
-    "defaultMessage": "欢迎使用 Komga"
+    "defaultMessage": "欢迎使用 bibliomeriau"
   },
   "Rt/kZN": {
     "defaultMessage": "{first} 和 {rest, plural, one {# 其他书籍} other {# 其他书籍} }"
@@ -1254,7 +1254,7 @@
     "defaultMessage": "尚未创建 API 密钥"
   },
   "WNY0pu": {
-    "defaultMessage": "已安装最新版本的 Komga"
+    "defaultMessage": "已安装最新版本的 bibliomeriau"
   },
   "WPxleH": {
     "defaultMessage": "书籍文件将被删除<ul><li>书籍媒体文件将从磁盘中删除。</li><li>书籍的辅助文件将从磁盘中删除。</li><li>书籍连同其元数据和阅读进度将被删除。</li></ul><b>此操作无法撤销。</b>"
@@ -1338,7 +1338,7 @@
     "defaultMessage": "文件大小"
   },
   "Y0cG3G": {
-    "defaultMessage": "此 API 密钥将从服务器中删除。<ul><li>任何使用此 API 密钥的应用程序或脚本将无法再访问 Komga API。</li><li>此 API 密钥的身份验证活动将被永久删除。</li></ul><b>此操作无法撤销。</b>"
+    "defaultMessage": "此 API 密钥将从服务器中删除。<ul><li>任何使用此 API 密钥的应用程序或脚本将无法再访问 bibliomeriau API。</li><li>此 API 密钥的身份验证活动将被永久删除。</li></ul><b>此操作无法撤销。</b>"
   },
   "Y4xJBN": {
     "defaultMessage": "最后修改"
@@ -2523,7 +2523,7 @@
     "defaultMessage": "简介"
   },
   "uXY7Eg": {
-    "defaultMessage": "Komga logo"
+    "defaultMessage": "bibliomeriau logo"
   },
   "uY7N6Z": {
     "defaultMessage": "媒体类型"

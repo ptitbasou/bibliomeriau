@@ -174,7 +174,7 @@
     "defaultMessage": "İstatistikler"
   },
   "2p+JVw": {
-    "defaultMessage": "Bu Komga sunucusu henüz aktif değil, erişebilmek için önce bir hesap oluşturmalısınız."
+    "defaultMessage": "Bu bibliomeriau sunucusu henüz aktif değil, erişebilmek için önce bir hesap oluşturmalısınız."
   },
   "2uUiqM": {
     "defaultMessage": "Seri sıralaması"
@@ -984,7 +984,7 @@
     "defaultMessage": "Serideki bir önceki kitaba git"
   },
   "PTr5Wc": {
-    "defaultMessage": "Komga sunucunuzun çalıştığından emin olun"
+    "defaultMessage": "bibliomeriau sunucunuzun çalıştığından emin olun"
   },
   "PUU04H": {
     "defaultMessage": "Poster kutularını doldurun"
@@ -1050,7 +1050,7 @@
     "defaultMessage": "Kitap {number}"
   },
   "Rm52xk": {
-    "defaultMessage": "Komga'ya Hoş Geldiniz"
+    "defaultMessage": "bibliomeriau'ya Hoş Geldiniz"
   },
   "Rw2Iwj": {
     "defaultMessage": "Okuma listesindeki bir sonraki kitaba geç"
@@ -1233,7 +1233,7 @@
     "defaultMessage": "Henüz API anahtarı oluşturulmamış"
   },
   "WNY0pu": {
-    "defaultMessage": "Komga'nın güncel sürümü yüklü"
+    "defaultMessage": "bibliomeriau'nın güncel sürümü yüklü"
   },
   "WPxleH": {
     "defaultMessage": "Kitap dosyaları silinecek<ul><li>Kitap medya dosyası diskten silinecek.</li><li>Kitaba ait yardımcı dosyalar (sidecar dosyaları) diskten silinecek.</li><li>Kitap; meta verileri ve okuma ilerleme durumuyla birlikte silinecek.</li></ul><b>Bu işlem geri alınamaz.</b>"
@@ -1317,7 +1317,7 @@
     "defaultMessage": "Dosya boyutu"
   },
   "Y0cG3G": {
-    "defaultMessage": "API anahtarı bu sunucudan silinecektir.<ul><li>Bu API anahtarını kullanan tüm uygulamalar veya betikler, artık Komga API'sine erişemeyecektir.</li><li>Bu API anahtarına ilişkin kimlik doğrulama etkinlikleri kalıcı olarak silinecektir.</li></ul><b>Bu işlem geri alınamaz.</b>"
+    "defaultMessage": "API anahtarı bu sunucudan silinecektir.<ul><li>Bu API anahtarını kullanan tüm uygulamalar veya betikler, artık bibliomeriau API'sine erişemeyecektir.</li><li>Bu API anahtarına ilişkin kimlik doğrulama etkinlikleri kalıcı olarak silinecektir.</li></ul><b>Bu işlem geri alınamaz.</b>"
   },
   "Y4xJBN": {
     "defaultMessage": "Son değiştirilme"
@@ -2493,7 +2493,7 @@
     "defaultMessage": "Özet"
   },
   "uXY7Eg": {
-    "defaultMessage": "Komga logosu"
+    "defaultMessage": "bibliomeriau logosu"
   },
   "uY7N6Z": {
     "defaultMessage": "Medya profili"

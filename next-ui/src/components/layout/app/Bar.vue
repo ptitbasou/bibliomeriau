@@ -42,7 +42,7 @@
           <v-img src="@/assets/logo.svg" />
         </v-avatar>
       </RouterLink>
-      Komga
+      bibliomeriau
     </v-app-bar-title>
 
     <template #append>

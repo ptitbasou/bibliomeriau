@@ -8,7 +8,7 @@
     "description": "Known Duplicate Page Table: shown when table has no data"
   },
   "+8++PW": {
-    "defaultMessage": "Library created: {library}",
+    "defaultMessage": "Shelf created: {library}",
     "description": "Snackbar notification shown upon successful library creation"
   },
   "+C/+3o": {
@@ -124,7 +124,7 @@
     "description": "Sidebar button: tooltip collapse"
   },
   "0MePSx": {
-    "defaultMessage": "Drag here to pin a library",
+    "defaultMessage": "Drag here to pin a shelf",
     "description": "Reorder library drawer: placeholder if no libraries are pinned"
   },
   "0OEO+j": {
@@ -164,7 +164,7 @@
     "description": "Filter panel header"
   },
   "1+Ux6s": {
-    "defaultMessage": "Create a library to get started",
+    "defaultMessage": "Create a shelf to get started",
     "description": "No libraries view: subtitle for admin"
   },
   "111Isd": {
@@ -236,7 +236,7 @@
     "description": "Drawer menu for Server > Metrics"
   },
   "2p+JVw": {
-    "defaultMessage": "This Komga server is not yet active, you need to create a user account to be able to access it.",
+    "defaultMessage": "This bibliomeriau server is not yet active, you need to create a user account to be able to access it.",
     "description": "Claim server screen: information banner"
   },
   "2uUiqM": {
@@ -264,7 +264,7 @@
     "description": "Filename picker dialog: title"
   },
   "3T1ln7": {
-    "defaultMessage": "Delete library",
+    "defaultMessage": "Delete shelf",
     "description": "Library delete dialog: title"
   },
   "3W0jUi": {
@@ -280,7 +280,7 @@
     "description": "Delete API Key dialog title"
   },
   "3gimvl": {
-    "defaultMessage": "library menu",
+    "defaultMessage": "shelf menu",
     "description": "Library menu button: aria label"
   },
   "3lLmfX": {
@@ -364,7 +364,7 @@
     "description": "Login screen: password field label"
   },
   "5JGOUU": {
-    "defaultMessage": "Analyze library",
+    "defaultMessage": "Analyze shelf",
     "description": "Library analyze dialog: title"
   },
   "5Qha5m": {
@@ -436,7 +436,7 @@
     "description": "Theme: dark"
   },
   "6eAECF": {
-    "defaultMessage": "Library",
+    "defaultMessage": "Shelf",
     "description": "Library bottom sheet, subtitle"
   },
   "6nCIPn": {
@@ -444,7 +444,7 @@
     "description": "History Table table header: Event type"
   },
   "70/wK4": {
-    "defaultMessage": "Create library",
+    "defaultMessage": "Create shelf",
     "description": "Add library button: tooltip"
   },
   "700A3r": {
@@ -536,7 +536,7 @@
     "description": "Multiple entities deletion dialog: confirm button"
   },
   "8xonXJ": {
-    "defaultMessage": "Analyzes all the media files in the library. The analysis captures information about the media. Depending on your library size, this may take a long time.",
+    "defaultMessage": "Analyzes all the media files in the shelf. The analysis captures information about the media. Depending on your shelf size, this may take a long time.",
     "description": "Library empty trash dialog: warning text"
   },
   "9/1/c7": {
@@ -548,7 +548,7 @@
     "description": "Snackbar notification shown upon failed collection update"
   },
   "90yqRq": {
-    "defaultMessage": "add library",
+    "defaultMessage": "add shelf",
     "description": "Add library button: aria label"
   },
   "98Q8V7": {
@@ -684,7 +684,7 @@
     "description": "Book view: media outdated"
   },
   "CJaS7j": {
-    "defaultMessage": "Library root directory",
+    "defaultMessage": "Shelf root directory",
     "description": "Form add/edit library: General - root directory selection dialog title"
   },
   "CMuDjt": {
@@ -712,7 +712,7 @@
     "description": "Form edit series: General - series publisher"
   },
   "CY8sfH": {
-    "defaultMessage": "Scan all libraries",
+    "defaultMessage": "Scan all shelves",
     "description": "Libraries menu: scan"
   },
   "CkUPZe": {
@@ -736,7 +736,7 @@
     "description": "Shown in users table when there is no recent authentication activity for the user"
   },
   "CwteMk": {
-    "defaultMessage": "Empty trash for all libraries",
+    "defaultMessage": "Empty trash for all shelves",
     "description": "Libraries menu: empty trash"
   },
   "CxuwFR": {
@@ -820,7 +820,7 @@
     "description": "Book picker dialog: series books table header: number"
   },
   "ELl0N9": {
-    "defaultMessage": "Books with missing posters can now be filtered directly in the main library view.",
+    "defaultMessage": "Books with missing posters can now be filtered directly in the main shelf view.",
     "description": "Missing posters: text"
   },
   "ELttw/": {
@@ -916,7 +916,7 @@
     "description": "Expendable text: show all"
   },
   "GCwZB2": {
-    "defaultMessage": "Scan library files",
+    "defaultMessage": "Scan shelf files",
     "description": "Library menu: scan"
   },
   "GnHrCd": {
@@ -928,7 +928,7 @@
     "description": "Series bottom sheet, subtitle"
   },
   "GyRV+/": {
-    "defaultMessage": "You should enable this if the library is hosted on Google Drive",
+    "defaultMessage": "You should enable this if the shelf is hosted on Google Drive",
     "description": "Form add/edit library: Scanner - Force directory modified time - information tooltip"
   },
   "GySX8C": {
@@ -936,7 +936,7 @@
     "description": "Form add/edit library: Scanner - empty trash automatically"
   },
   "H+LXXE": {
-    "defaultMessage": "Drag here to unpin a library",
+    "defaultMessage": "Drag here to unpin a shelf",
     "description": "Reorder library drawer: placeholder if no libraries are unpinned"
   },
   "H1+81t": {
@@ -984,7 +984,7 @@
     "description": "Generate API key dialog: close button"
   },
   "HaF+a6": {
-    "defaultMessage": "Libraries",
+    "defaultMessage": "Shelves",
     "description": "Libraries bottom sheet, subtitle"
   },
   "HaWCi3": {
@@ -1324,7 +1324,7 @@
     "description": "Book navigation within series: previous button tootlip"
   },
   "PTr5Wc": {
-    "defaultMessage": "Check that your Komga server is running",
+    "defaultMessage": "Check that your bibliomeriau server is running",
     "description": "Server unreachable error view: error message subtitle"
   },
   "PUU04H": {
@@ -1348,7 +1348,7 @@
     "description": "Filter panel: Series status"
   },
   "PvKF7E": {
-    "defaultMessage": "Library deleted: {library}",
+    "defaultMessage": "Shelf deleted: {library}",
     "description": "Snackbar notification shown upon successful library deletion"
   },
   "Q7tJAG": {
@@ -1416,7 +1416,7 @@
     "description": "Snackbar notification shown upon successful bulk book metadata update"
   },
   "Rm52xk": {
-    "defaultMessage": "Welcome to Komga",
+    "defaultMessage": "Welcome to bibliomeriau",
     "description": "No libraries view: title"
   },
   "Rt/kZN": {
@@ -1592,7 +1592,7 @@
     "description": "Filter empty state: title"
   },
   "UvhIIT": {
-    "defaultMessage": "Shared Libraries",
+    "defaultMessage": "Shared Shelves",
     "description": "User creation/edit dialog: Shared Libraries field"
   },
   "UxBl+J": {
@@ -1672,7 +1672,7 @@
     "description": "API Key table: shown when table has no data"
   },
   "WNY0pu": {
-    "defaultMessage": "The latest version of Komga is already installed",
+    "defaultMessage": "The latest version of bibliomeriau is already installed",
     "description": "Updates view: banner shown at the top"
   },
   "WPxleH": {
@@ -1784,7 +1784,7 @@
     "description": "Sort label: fileSize"
   },
   "Y0cG3G": {
-    "defaultMessage": "The API key will be deleted from this server.<ul><li>Any application or scripts using this API key will no longer be able to access the Komga API.</li><li>Authentication activity for this API key will be permanently deleted.</li></ul><b>This action cannot be undone.</b>",
+    "defaultMessage": "The API key will be deleted from this server.<ul><li>Any application or scripts using this API key will no longer be able to access the bibliomeriau API.</li><li>Authentication activity for this API key will be permanently deleted.</li></ul><b>This action cannot be undone.</b>",
     "description": "API Key deletion warning notice"
   },
   "Y4xJBN": {
@@ -1820,7 +1820,7 @@
     "description": "Authentication Activity table header: IP address"
   },
   "YeFgyc": {
-    "defaultMessage": "Books in error can now be filtered directly in the main library view.",
+    "defaultMessage": "Books in error can now be filtered directly in the main shelf view.",
     "description": "Media analysis: text"
   },
   "YeUvoE": {
@@ -1916,7 +1916,7 @@
     "description": "Poster card: action - delete"
   },
   "aOiU5f": {
-    "defaultMessage": "Library updated: {library}",
+    "defaultMessage": "Shelf updated: {library}",
     "description": "Snackbar notification shown upon successful library update"
   },
   "aR6KDt": {
@@ -1944,7 +1944,7 @@
     "description": "Form add/edit library: General - root directory"
   },
   "am3r7e": {
-    "defaultMessage": "Update library",
+    "defaultMessage": "Update shelf",
     "description": "Update library dialog title"
   },
   "anhfpP": {
@@ -2004,7 +2004,7 @@
     "description": "Error code: ERR_1016"
   },
   "app.error.ERR_1017": {
-    "defaultMessage": "Cannot scan folder that is part of an existing library",
+    "defaultMessage": "Cannot scan folder that is part of an existing shelf",
     "description": "Error code: ERR_1017"
   },
   "app.error.ERR_1018": {
@@ -2012,7 +2012,7 @@
     "description": "Error code: ERR_1018"
   },
   "app.error.ERR_1019": {
-    "defaultMessage": "Cannot import file that is part of an existing library",
+    "defaultMessage": "Cannot import file that is part of an existing shelf",
     "description": "Error code: ERR_1019"
   },
   "app.error.ERR_1020": {
@@ -2096,7 +2096,7 @@
     "description": "Error code: ERR_1039"
   },
   "app.user-create-dialog.all_libraries": {
-    "defaultMessage": "All libraries",
+    "defaultMessage": "All shelves",
     "description": "User creation/edit dialog: Shared Libraries field, value shown when user has access to all libraries"
   },
   "ayrmyn": {
@@ -2152,7 +2152,7 @@
     "description": "Metadata edition: add kind dialog - input field label"
   },
   "bk1tX8": {
-    "defaultMessage": "The library will be deleted from this server.<ul><li>Series and books will be deleted, along with their metadata and read progress.</li><li>Media files will not be deleted from disk.</li></ul><b>This action cannot be undone.</b>",
+    "defaultMessage": "The shelf will be deleted from this server.<ul><li>Series and books will be deleted, along with their metadata and read progress.</li><li>Media files will not be deleted from disk.</li></ul><b>This action cannot be undone.</b>",
     "description": "Library deletion warning notice"
   },
   "bqoEfm": {
@@ -2164,7 +2164,7 @@
     "description": "Filter search field"
   },
   "bzn96A": {
-    "defaultMessage": "Create library",
+    "defaultMessage": "Create shelf",
     "description": "No libraries view: button"
   },
   "c+hx0g": {
@@ -2544,7 +2544,7 @@
     "description": "Form edit book: General"
   },
   "eyYZUe": {
-    "defaultMessage": "Libraries",
+    "defaultMessage": "Shelves",
     "description": "Drawer menu for Libraries"
   },
   "ezgnXr": {
@@ -2640,7 +2640,7 @@
     "description": "Filter panel: Sharing label"
   },
   "hJEc5M": {
-    "defaultMessage": "libraries menu",
+    "defaultMessage": "shelves menu",
     "description": "Libraries menu button: aria label"
   },
   "hPYi11": {
@@ -2796,7 +2796,7 @@
     "description": "Form edit read list: Poster"
   },
   "kDc7YL": {
-    "defaultMessage": "By default the media server doesn't remove information for media right away. This helps if a drive is temporarily disconnected. When you empty the trash for a library, all information about missing media is deleted.",
+    "defaultMessage": "By default the media server doesn't remove information for media right away. This helps if a drive is temporarily disconnected. When you empty the trash for a shelf, all information about missing media is deleted.",
     "description": "Library empty trash dialog: warning text"
   },
   "kFQatO": {
@@ -2808,7 +2808,7 @@
     "description": "Authentication Activity table: shown when table has no data"
   },
   "kHmCVM": {
-    "defaultMessage": "Scan library",
+    "defaultMessage": "Scan shelf",
     "description": "Task name: ScanLibrary"
   },
   "kMw47z": {
@@ -2988,7 +2988,7 @@
     "description": "Import reading list table: book cell: select book button"
   },
   "nuoJ1n": {
-    "defaultMessage": "Create library",
+    "defaultMessage": "Create shelf",
     "description": "Create library dialog title"
   },
   "nyxfPy": {
@@ -3040,7 +3040,7 @@
     "description": "Bulk edit input fields: no value placeholder"
   },
   "pCBNlA": {
-    "defaultMessage": "Library",
+    "defaultMessage": "Shelf",
     "description": "Browsing context: library"
   },
   "pENCUD": {
@@ -3068,7 +3068,7 @@
     "description": "Library navigation: books"
   },
   "phzvRy": {
-    "defaultMessage": "Library",
+    "defaultMessage": "Shelf",
     "description": "Filter panel: Library"
   },
   "pvD6TS": {
@@ -3164,7 +3164,7 @@
     "description": "Form add/edit library: Options - section header for file management"
   },
   "rm0c6Y": {
-    "defaultMessage": "This server does not have any library yet",
+    "defaultMessage": "This server does not have any shelf yet",
     "description": "No libraries view: subtitle for non-admin"
   },
   "rnClur": {
@@ -3196,7 +3196,7 @@
     "description": "Form edit book: General - book ISBN"
   },
   "s1nzhU": {
-    "defaultMessage": "Library name",
+    "defaultMessage": "Shelf name",
     "description": "Form add/edit library: General - library name"
   },
   "sGsWvI": {
@@ -3364,15 +3364,15 @@
     "description": "Import reading list: bottom bar: reading list summary"
   },
   "uXY7Eg": {
-    "defaultMessage": "Komga logo",
-    "description": "Login page: Komga logo alt text"
+    "defaultMessage": "bibliomeriau logo",
+    "description": "Login page: bibliomeriau logo alt text"
   },
   "uY7N6Z": {
     "defaultMessage": "Media profile",
     "description": "Filter panel: Media profile"
   },
   "uoc99F": {
-    "defaultMessage": "Can consume lots of resources on large libraries or slow hardware",
+    "defaultMessage": "Can consume lots of resources on large shelves or slow hardware",
     "description": "Resource intensive analysis warning"
   },
   "upo+2b": {
@@ -3420,7 +3420,7 @@
     "description": "Book imported notification: import failure: title"
   },
   "vs88Ef": {
-    "defaultMessage": "Refreshes metadata for all the media files in the library. Depending on your library size, this may take a long time.",
+    "defaultMessage": "Refreshes metadata for all the media files in the shelf. Depending on your shelf size, this may take a long time.",
     "description": "Library refresh metadata dialog: warning text"
   },
   "vtBARB": {
@@ -3512,7 +3512,7 @@
     "description": "User table header: user latest activity"
   },
   "y3nPgO": {
-    "defaultMessage": "Performs a deep scan of the library files. Depending on your library size, this may take a long time.",
+    "defaultMessage": "Performs a deep scan of the shelf files. Depending on your shelf size, this may take a long time.",
     "description": "Library deep scan dialog: warning text"
   },
   "y5GoQ3": {

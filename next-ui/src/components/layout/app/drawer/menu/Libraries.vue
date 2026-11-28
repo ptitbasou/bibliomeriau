@@ -3,7 +3,7 @@
     :title="
       $formatMessage({
         description: 'Drawer menu for Libraries',
-        defaultMessage: 'Libraries',
+        defaultMessage: 'Shelves',
         id: 'eyYZUe',
       })
     "
@@ -16,7 +16,7 @@
         v-ktooltip:bottom="
           $formatMessage({
             description: 'Add library button: tooltip',
-            defaultMessage: 'Create library',
+            defaultMessage: 'Create shelf',
             id: '70/wK4',
           })
         "
@@ -25,7 +25,7 @@
         :aria-label="
           $formatMessage({
             description: 'Add library button: aria label',
-            defaultMessage: 'add library',
+            defaultMessage: 'add shelf',
             id: '90yqRq',
           })
         "
@@ -39,7 +39,7 @@
         :aria-label="
           $formatMessage({
             description: 'Libraries menu button: aria label',
-            defaultMessage: 'libraries menu',
+            defaultMessage: 'shelves menu',
             id: 'hJEc5M',
           })
         "

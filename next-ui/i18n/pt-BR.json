@@ -111,7 +111,7 @@
     "defaultMessage": "Métricas"
   },
   "2p+JVw": {
-    "defaultMessage": "Esse servidor Komga ainda não está ativo, você precisa criar um usuário para conseguir acessar."
+    "defaultMessage": "Esse servidor bibliomeriau ainda não está ativo, você precisa criar um usuário para conseguir acessar."
   },
   "3DBPuv": {
     "defaultMessage": "Rolar"
@@ -603,7 +603,7 @@
     "defaultMessage": "Metadados do livro atualizados: {book}"
   },
   "PTr5Wc": {
-    "defaultMessage": "Verifique se o seu servidor Komga está em execução"
+    "defaultMessage": "Verifique se o seu servidor bibliomeriau está em execução"
   },
   "PguYSD": {
     "defaultMessage": "Sobrescrever a lista de leitura existente"
@@ -642,7 +642,7 @@
     "defaultMessage": "Expandir barra lateral"
   },
   "Rm52xk": {
-    "defaultMessage": "Boas-vindas ao Komga"
+    "defaultMessage": "Boas-vindas ao bibliomeriau"
   },
   "RwuMl5": {
     "defaultMessage": "Reparar automaticamente extensões de arquivo incorretas"

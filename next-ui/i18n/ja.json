@@ -141,7 +141,7 @@
     "defaultMessage": "統計"
   },
   "2p+JVw": {
-    "defaultMessage": "このKomgaサーバーはまだ有効化されていません。アクセスするにはユーザーアカウントを作成する必要があります。"
+    "defaultMessage": "このbibliomeriauサーバーはまだ有効化されていません。アクセスするにはユーザーアカウントを作成する必要があります。"
   },
   "2uUiqM": {
     "defaultMessage": "シリーズの並び順"
@@ -879,7 +879,7 @@
     "defaultMessage": "シリーズ内の前の書籍へ移動"
   },
   "PTr5Wc": {
-    "defaultMessage": "Komgaサーバーが稼働しているか確認してください"
+    "defaultMessage": "bibliomeriauサーバーが稼働しているか確認してください"
   },
   "PguYSD": {
     "defaultMessage": "既存の読書リストを上書きする"
@@ -936,7 +936,7 @@
     "defaultMessage": "書籍 {number}"
   },
   "Rm52xk": {
-    "defaultMessage": "Komga へようこそ"
+    "defaultMessage": "bibliomeriau へようこそ"
   },
   "Rw2Iwj": {
     "defaultMessage": "読書リスト内の次の書籍へ移動"
@@ -1104,7 +1104,7 @@
     "defaultMessage": "作成されたAPIキーはありません"
   },
   "WNY0pu": {
-    "defaultMessage": "すでに最新バージョンのKomgaがインストールされています"
+    "defaultMessage": "すでに最新バージョンのbibliomeriauがインストールされています"
   },
   "WPxleH": {
     "defaultMessage": "書籍ファイルが削除されます。<ul><li>書籍のメディアファイルがディスクから削除されます。</li><li>書籍のサイドカーファイルがディスクから削除されます。</li><li>書籍はメタデータや読書進捗とともに削除されます。</li></ul><b>この操作は取り消せません。</b>"
@@ -1185,7 +1185,7 @@
     "defaultMessage": "ファイルサイズ"
   },
   "Y0cG3G": {
-    "defaultMessage": "このサーバーからAPIキーが削除されます。<ul><li>このAPIキーを使用しているアプリケーションやスクリプトは、Komga APIにアクセスできなくなります。</li><li>このAPIキーの認証履歴は完全に削除されます。</li></ul><b>この操作は取り消せません。</b>"
+    "defaultMessage": "このサーバーからAPIキーが削除されます。<ul><li>このAPIキーを使用しているアプリケーションやスクリプトは、bibliomeriau APIにアクセスできなくなります。</li><li>このAPIキーの認証履歴は完全に削除されます。</li></ul><b>この操作は取り消せません。</b>"
   },
   "Y4xJBN": {
     "defaultMessage": "最終更新日時"
@@ -2256,7 +2256,7 @@
     "defaultMessage": "概要"
   },
   "uXY7Eg": {
-    "defaultMessage": "Komga ロゴ"
+    "defaultMessage": "bibliomeriau ロゴ"
   },
   "uY7N6Z": {
     "defaultMessage": "メディアプロファイル"

@@ -7,7 +7,7 @@
     :sheet-title="
       $formatMessage({
         description: 'Libraries bottom sheet, subtitle',
-        defaultMessage: 'Libraries',
+        defaultMessage: 'Shelves',
         id: 'HaF+a6',
       })
     "

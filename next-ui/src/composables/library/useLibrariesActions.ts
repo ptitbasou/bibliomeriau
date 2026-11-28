@@ -35,7 +35,7 @@ export function useLibrariesActions(callback: (action: LibrariesAction) => void 
           {
             title: intl.formatMessage({
               description: 'Libraries menu: scan',
-              defaultMessage: 'Scan all libraries',
+              defaultMessage: 'Scan all shelves',
               id: 'CY8sfH',
             }),
             action: LibrariesAction.ScanAll,
@@ -50,7 +50,7 @@ export function useLibrariesActions(callback: (action: LibrariesAction) => void 
           {
             title: intl.formatMessage({
               description: 'Libraries menu: empty trash',
-              defaultMessage: 'Empty trash for all libraries',
+              defaultMessage: 'Empty trash for all shelves',
               id: 'CwteMk',
             }),
             action: LibrariesAction.EmptyTrashAll,

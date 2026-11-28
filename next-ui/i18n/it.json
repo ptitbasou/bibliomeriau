@@ -156,7 +156,7 @@
     "defaultMessage": "Metriche"
   },
   "2p+JVw": {
-    "defaultMessage": "Questo server Komga non è ancora attivo, crea un account utente per accederci."
+    "defaultMessage": "Questo server bibliomeriau non è ancora attivo, crea un account utente per accederci."
   },
   "2uUiqM": {
     "defaultMessage": "Ordinamento serie"
@@ -792,7 +792,7 @@
     "defaultMessage": "Metadati del volume aggiornati: {book}"
   },
   "PTr5Wc": {
-    "defaultMessage": "Verifica che il server Komga sia in esecuzione"
+    "defaultMessage": "Verifica che il server bibliomeriau sia in esecuzione"
   },
   "PguYSD": {
     "defaultMessage": "Sovrascrivi la lista di lettura esistente"
@@ -837,7 +837,7 @@
     "defaultMessage": "Espandi la barra laterale"
   },
   "Rm52xk": {
-    "defaultMessage": "Benvenuto in Komga"
+    "defaultMessage": "Benvenuto in bibliomeriau"
   },
   "RwuMl5": {
     "defaultMessage": "Ripara automaticamente le estensioni dei file errate"
@@ -963,7 +963,7 @@
     "defaultMessage": "Nessuna chiave API ancora creata"
   },
   "WNY0pu": {
-    "defaultMessage": "La versione più recente di Komga è già installata"
+    "defaultMessage": "La versione più recente di bibliomeriau è già installata"
   },
   "WPxleH": {
     "defaultMessage": "I file del volume verranno eliminati<ul><li>Il file del volume verrà eliminato dal disco.</li><li>I file associati al volume verranno eliminati dal disco.</li><li>Il volume verrà eliminato insieme ai metadati e ai progressi di lettura.</li></ul><b>Questa operazione non può essere annullata.</b>"
@@ -1029,7 +1029,7 @@
     "defaultMessage": "Dimensione file"
   },
   "Y0cG3G": {
-    "defaultMessage": "La chiave API verrà eliminata da questo server.<ul><li>Le applicazioni o gli script che utilizzano questa chiave API non potranno più accedere all'API di Komga.</li><li>L'attività di autenticazione per questa chiave API verrà eliminata definitivamente.</li></ul><b>Questa azione non può essere annullata.</b>"
+    "defaultMessage": "La chiave API verrà eliminata da questo server.<ul><li>Le applicazioni o gli script che utilizzano questa chiave API non potranno più accedere all'API di bibliomeriau.</li><li>L'attività di autenticazione per questa chiave API verrà eliminata definitivamente.</li></ul><b>Questa azione non può essere annullata.</b>"
   },
   "Y4xJBN": {
     "defaultMessage": "Ultima modifica"
@@ -1935,7 +1935,7 @@
     "defaultMessage": "Riepilogo"
   },
   "uXY7Eg": {
-    "defaultMessage": "Logo di Komga"
+    "defaultMessage": "Logo di bibliomeriau"
   },
   "uY7N6Z": {
     "defaultMessage": "Profilo multimediale"

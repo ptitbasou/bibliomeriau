@@ -182,7 +182,7 @@ const {
   countAll: filtersCountAll,
 } = useFilters(
   [
-    'library',
+    'shelf',
     'seriesStatus',
     'read',
     'genre',

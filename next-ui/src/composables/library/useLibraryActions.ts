@@ -36,7 +36,7 @@ export function useLibraryActions(
           {
             title: intl.formatMessage({
               description: 'Library menu: scan',
-              defaultMessage: 'Scan library files',
+              defaultMessage: 'Scan shelf files',
               id: 'GCwZB2',
             }),
             action: LibraryAction.Scan,
@@ -132,7 +132,7 @@ export function useLibraryActions(
     dialogConfirmEdit.value.dialogProps = {
       title: intl.formatMessage({
         description: 'Update library dialog title',
-        defaultMessage: 'Update library',
+        defaultMessage: 'Update shelf',
         id: 'am3r7e',
       }),
       maxWidth: 600,
@@ -171,7 +171,7 @@ export function useLibraryActions(
             message: intl.formatMessage(
               {
                 description: 'Snackbar notification shown upon successful library update',
-                defaultMessage: 'Library updated: {library}',
+                defaultMessage: 'Shelf updated: {library}',
                 id: 'aOiU5f',
               },
               {
@@ -218,7 +218,7 @@ export function useLibraryActions(
           intl.formatMessage({
             description: 'Library refresh metadata dialog: warning text',
             defaultMessage:
-              'Refreshes metadata for all the media files in the library. Depending on your library size, this may take a long time.',
+              'Refreshes metadata for all the media files in the shelf. Depending on your shelf size, this may take a long time.',
             id: 'vs88Ef',
           }),
         ),
@@ -268,7 +268,7 @@ export function useLibraryActions(
     dialogConfirm.value.dialogProps = {
       title: intl.formatMessage({
         description: 'Library analyze dialog: title',
-        defaultMessage: 'Analyze library',
+        defaultMessage: 'Analyze shelf',
         id: '5JGOUU',
       }),
       subtitle: toValue(library).name,
@@ -290,7 +290,7 @@ export function useLibraryActions(
           intl.formatMessage({
             description: 'Library empty trash dialog: warning text',
             defaultMessage:
-              'Analyzes all the media files in the library. The analysis captures information about the media. Depending on your library size, this may take a long time.',
+              'Analyzes all the media files in the shelf. The analysis captures information about the media. Depending on your shelf size, this may take a long time.',
             id: '8xonXJ',
           }),
         ),
@@ -340,7 +340,7 @@ export function useLibraryActions(
           intl.formatMessage({
             description: 'Library deep scan dialog: warning text',
             defaultMessage:
-              'Performs a deep scan of the library files. Depending on your library size, this may take a long time.',
+              'Performs a deep scan of the shelf files. Depending on your shelf size, this may take a long time.',
             id: 'y3nPgO',
           }),
         ),
@@ -363,7 +363,7 @@ export function useLibraryActions(
     dialogConfirm.value.dialogProps = {
       title: intl.formatMessage({
         description: 'Library delete dialog: title',
-        defaultMessage: 'Delete library',
+        defaultMessage: 'Delete shelf',
         id: '3T1ln7',
       }),
       subtitle: toValue(library).name,
@@ -391,7 +391,7 @@ export function useLibraryActions(
               message: intl.formatMessage(
                 {
                   description: 'Snackbar notification shown upon successful library deletion',
-                  defaultMessage: 'Library deleted: {library}',
+                  defaultMessage: 'Shelf deleted: {library}',
                   id: 'PvKF7E',
                 },
                 {

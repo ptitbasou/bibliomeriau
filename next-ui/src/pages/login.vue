@@ -14,8 +14,8 @@
             src="@/assets/logo.svg"
             :alt="
               $formatMessage({
-                description: 'Login page: Komga logo alt text',
-                defaultMessage: 'Komga logo',
+                description: 'Login page: bibliomeriau logo alt text',
+                defaultMessage: 'bibliomeriau logo',
                 id: 'uXY7Eg',
               })
             "

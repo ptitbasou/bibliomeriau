@@ -24,7 +24,7 @@
               $formatMessage({
                 description: 'Claim server screen: information banner',
                 defaultMessage:
-                  'This Komga server is not yet active, you need to create a user account to be able to access it.',
+                  'This bibliomeriau server is not yet active, you need to create a user account to be able to access it.',
                 id: '2p+JVw',
               })
             "

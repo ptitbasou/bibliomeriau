@@ -44,7 +44,7 @@
           :label="
             $formatMessage({
               description:
-                'Form add/edit library: Metadata - comicinfo append volume to series title',
+                'Form add/edit shelf: Metadata - comicinfo append volume to series title',
               defaultMessage: 'Append volume to series title',
               id: 'AjBiEw',
             })
@@ -69,7 +69,7 @@
               v-ktooltip:bottom="{
                 text: $formatMessage({
                   description:
-                    'Form add/edit library: Metadata - Comicinfo.xml collections - information tooltip',
+                    'Form add/edit shelf: Metadata - Comicinfo.xml collections - information tooltip',
                   defaultMessage: `The 'SeriesGroup' element will be used`,
                   id: 'VcueWO',
                 }),
@@ -97,7 +97,7 @@
               v-ktooltip:bottom="{
                 text: $formatMessage({
                   description:
-                    'Form add/edit library: Metadata - Comicinfo.xml collections - information tooltip',
+                    'Form add/edit shelf: Metadata - Comicinfo.xml collections - information tooltip',
                   defaultMessage: `The 'AlternateSeries' or 'StoryArc' elements will be used`,
                   id: 'nyxfPy',
                 }),
@@ -186,7 +186,7 @@
           {{
             $formatMessage({
               description:
-                'Form add/edit library: Metadata - section header for local media assets',
+                'Form add/edit shelf: Metadata - section header for local media assets',
               defaultMessage: 'Local media assets',
               id: 'COn5A6',
             })

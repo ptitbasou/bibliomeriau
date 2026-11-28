@@ -114,7 +114,7 @@
     "defaultMessage": "Statistik"
   },
   "2p+JVw": {
-    "defaultMessage": "Dieser Komga-Server ist noch nicht aktiv. Erstelle ein Benutzerkonto, um darauf zugreifen zu können."
+    "defaultMessage": "Dieser bibliomeriau-Server ist noch nicht aktiv. Erstelle ein Benutzerkonto, um darauf zugreifen zu können."
   },
   "3DBPuv": {
     "defaultMessage": "Scrollen"
@@ -690,7 +690,7 @@
     "defaultMessage": "Buchmetadaten aktualisiert: {book}"
   },
   "PTr5Wc": {
-    "defaultMessage": "Überprüfen Sie, ob Ihr Komga-Server läuft"
+    "defaultMessage": "Überprüfen Sie, ob Ihr bibliomeriau-Server läuft"
   },
   "PguYSD": {
     "defaultMessage": "Vorhandene Leseliste überschreiben"
@@ -735,7 +735,7 @@
     "defaultMessage": "Seitenleiste erweitern"
   },
   "Rm52xk": {
-    "defaultMessage": "Willkommen zu Komga"
+    "defaultMessage": "Willkommen zu bibliomeriau"
   },
   "RwuMl5": {
     "defaultMessage": "Falsche Dateierweiterungen automatisch reparieren"
@@ -861,7 +861,7 @@
     "defaultMessage": "Es wurden noch keine API-Schlüssel erstellt"
   },
   "WNY0pu": {
-    "defaultMessage": "Die neueste Version von Komga ist schon installiert"
+    "defaultMessage": "Die neueste Version von bibliomeriau ist schon installiert"
   },
   "WPxleH": {
     "defaultMessage": "Die Buchdateien werden gelöscht<ul><li>Die Mediendateien des Buches werden von der Festplatte gelöscht.</li><li>Die Sidecar-Dateien des Buches werden von der Festplatte gelöscht.</li><li>Das Buch wird zusammen mit seinen Metadaten und dem Lesefortschritt gelöscht.</li></ul><b>Diese Aktion kann nicht rückgängig gemacht werden.</b>"
@@ -927,7 +927,7 @@
     "defaultMessage": "Dateigröße"
   },
   "Y0cG3G": {
-    "defaultMessage": "Der API-Schlüssel wird von diesem Server gelöscht.<ul><li>Alle Anwendungen oder Skripte, die diesen API-Schlüssel verwenden, können nicht mehr auf die Komga-API zugreifen.</li><li>Die Authentifizierungsdaten für diesen API-Schlüssel werden dauerhaft gelöscht.</li></ul><b>Diese Aktion kann nicht rückgängig gemacht werden.</b>"
+    "defaultMessage": "Der API-Schlüssel wird von diesem Server gelöscht.<ul><li>Alle Anwendungen oder Skripte, die diesen API-Schlüssel verwenden, können nicht mehr auf die bibliomeriau-API zugreifen.</li><li>Die Authentifizierungsdaten für diesen API-Schlüssel werden dauerhaft gelöscht.</li></ul><b>Diese Aktion kann nicht rückgängig gemacht werden.</b>"
   },
   "Y4xJBN": {
     "defaultMessage": "Zuletzt geändert"
@@ -1833,7 +1833,7 @@
     "defaultMessage": "Zusammenfassung"
   },
   "uXY7Eg": {
-    "defaultMessage": "Komga-Logo"
+    "defaultMessage": "bibliomeriau-Logo"
   },
   "uY7N6Z": {
     "defaultMessage": "Medienprofil"

@@ -120,8 +120,8 @@
               v-ktooltip:bottom="{
                 text: $formatMessage({
                   description:
-                    'Form add/edit library: Scanner - Force directory modified time - information tooltip',
-                  defaultMessage: 'You should enable this if the library is hosted on Google Drive',
+                    'Form add/edit shelf: Scanner - Force directory modified time - information tooltip',
+                  defaultMessage: 'You should enable this if the shelf is hosted on Google Drive',
                   id: 'GyRV+/',
                 }),
                 openOnClick: true,

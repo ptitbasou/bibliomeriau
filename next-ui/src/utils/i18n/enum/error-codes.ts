@@ -63,7 +63,7 @@ export const errorCodeMessages: Record<string, MessageDescriptor> = {
   }),
   ERR_1017: defineMessage({
     description: 'Error code: ERR_1017',
-    defaultMessage: 'Cannot scan folder that is part of an existing library',
+    defaultMessage: 'Cannot scan folder that is part of an existing shelf',
     id: 'app.error.ERR_1017',
   }),
   ERR_1018: defineMessage({
@@ -73,7 +73,7 @@ export const errorCodeMessages: Record<string, MessageDescriptor> = {
   }),
   ERR_1019: defineMessage({
     description: 'Error code: ERR_1019',
-    defaultMessage: 'Cannot import file that is part of an existing library',
+    defaultMessage: 'Cannot import file that is part of an existing shelf',
     id: 'app.error.ERR_1019',
   }),
   ERR_1020: defineMessage({

@@ -8,7 +8,7 @@
     :sheet-subtitle="
       $formatMessage({
         description: 'Library bottom sheet, subtitle',
-        defaultMessage: 'Library',
+        defaultMessage: 'Shelf',
         id: '6eAECF',
       })
     "

@@ -30,7 +30,7 @@ import { defineMessage } from 'vue-intl'
 const message = defineMessage({
   description: 'Library deletion warning notice',
   defaultMessage:
-    'The library will be deleted from this server.<ul><li>Series and books will be deleted, along with their metadata and read progress.</li><li>Media files will not be deleted from disk.</li></ul><b>This action cannot be undone.</b>',
+    'The shelf will be deleted from this server.<ul><li>Series and books will be deleted, along with their metadata and read progress.</li><li>Media files will not be deleted from disk.</li></ul><b>This action cannot be undone.</b>',
   id: 'bk1tX8',
 })
 </script>

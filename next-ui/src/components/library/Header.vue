@@ -24,7 +24,7 @@
       :aria-label="
         $formatMessage({
           description: 'Library menu button: aria label',
-          defaultMessage: 'library menu',
+          defaultMessage: 'shelf menu',
           id: '3gimvl',
         })
       "

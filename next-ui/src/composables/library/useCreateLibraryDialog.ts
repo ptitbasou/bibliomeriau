@@ -21,7 +21,7 @@ export function useCreateLibraryDialog() {
     dialogConfirmEdit.value.dialogProps = {
       title: intl.formatMessage({
         description: 'Create library dialog title',
-        defaultMessage: 'Create library',
+        defaultMessage: 'Create shelf',
         id: 'nuoJ1n',
       }),
       maxWidth: 600,
@@ -62,7 +62,7 @@ export function useCreateLibraryDialog() {
             message: intl.formatMessage(
               {
                 description: 'Snackbar notification shown upon successful library creation',
-                defaultMessage: 'Library created: {library}',
+                defaultMessage: 'Shelf created: {library}',
                 id: '+8++PW',
               },
               {

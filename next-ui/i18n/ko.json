@@ -177,7 +177,7 @@
     "defaultMessage": "통계"
   },
   "2p+JVw": {
-    "defaultMessage": "이 Komga 서버는 아직 활성화되지 않았습니다. 접속하려면 사용자 계정을 만들어야 합니다."
+    "defaultMessage": "이 bibliomeriau 서버는 아직 활성화되지 않았습니다. 접속하려면 사용자 계정을 만들어야 합니다."
   },
   "2uUiqM": {
     "defaultMessage": "시리즈 정렬"
@@ -993,7 +993,7 @@
     "defaultMessage": "시리즈 내 이전 책으로 이동"
   },
   "PTr5Wc": {
-    "defaultMessage": "Komga 서버가 작동 중인지 확인하세요"
+    "defaultMessage": "bibliomeriau 서버가 작동 중인지 확인하세요"
   },
   "PUU04H": {
     "defaultMessage": "표지 영역 가득 채우기"
@@ -1062,7 +1062,7 @@
     "defaultMessage": "{count, plural, one {책 #권} other {책 #권} } 수정됨"
   },
   "Rm52xk": {
-    "defaultMessage": "Komga에 오신 것을 환영합니다"
+    "defaultMessage": "bibliomeriau에 오신 것을 환영합니다"
   },
   "Rt/kZN": {
     "defaultMessage": "{first} 외 {rest, plural, one {#권} other {#권} }"
@@ -1254,7 +1254,7 @@
     "defaultMessage": "아직 생성된 API 키 없음"
   },
   "WNY0pu": {
-    "defaultMessage": "최신 버전의 Komga가 이미 설치되어 있습니다"
+    "defaultMessage": "최신 버전의 bibliomeriau가 이미 설치되어 있습니다"
   },
   "WPxleH": {
     "defaultMessage": "책 파일 삭제<ul><li>책 미디어 파일이 디스크에서 삭제됩니다.</li><li>책 사이드카 파일이 디스크에서 삭제됩니다.</li><li>책과 메타데이터 및 읽기 진도가 함께 삭제됩니다.</li></ul><b>이 작업은 되돌릴 수 없습니다.</b>"
@@ -1338,7 +1338,7 @@
     "defaultMessage": "파일 크기"
   },
   "Y0cG3G": {
-    "defaultMessage": "API 키를 이 서버에서 삭제합니다.<ul><li>이 API 키를 사용하는 애플리케이션 또는 스크립트는 더 이상 Komga API에 접속할 수 없게 됩니다.</li><li>이 API에 대한 접근 내역은 영구적으로 삭제됩니다.</li></ul><b>이 작업은 되돌릴 수 없습니다.</b>"
+    "defaultMessage": "API 키를 이 서버에서 삭제합니다.<ul><li>이 API 키를 사용하는 애플리케이션 또는 스크립트는 더 이상 bibliomeriau API에 접속할 수 없게 됩니다.</li><li>이 API에 대한 접근 내역은 영구적으로 삭제됩니다.</li></ul><b>이 작업은 되돌릴 수 없습니다.</b>"
   },
   "Y4xJBN": {
     "defaultMessage": "마지막 수정일"
@@ -2523,7 +2523,7 @@
     "defaultMessage": "요약"
   },
   "uXY7Eg": {
-    "defaultMessage": "Komga 로고"
+    "defaultMessage": "bibliomeriau 로고"
   },
   "uY7N6Z": {
     "defaultMessage": "미디어 프로필"

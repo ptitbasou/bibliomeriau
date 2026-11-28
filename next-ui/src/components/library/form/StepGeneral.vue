@@ -9,7 +9,7 @@
           :label="
             $formatMessage({
               description: 'Form add/edit library: General - library name',
-              defaultMessage: 'Library name',
+              defaultMessage: 'Shelf name',
               id: 's1nzhU',
             })
           "
@@ -60,7 +60,7 @@
               :message-descriptor="{
                 description: 'Form add/edit library: General - root directory guideline',
                 defaultMessage:
-                  'When configuring your library on a removable drive or shared network mount (like NFS), do not point the root directory directly to the root of the drive (e.g., <code>E:\\</code> or <code>/mnt/media/</code>).<br></br><br></br>To prevent data loss, please create a dedicated subdirectory for your files (e.g., <code>E:\\ebooks\\</code> or <code>/mnt/media/ebooks/</code>) and select that as your library root.',
+                  'When configuring your shelf on a removable drive or shared network mount (like NFS), do not point the root directory directly to the root of the drive (e.g., <code>E:\\</code> or <code>/mnt/media/</code>).<br></br><br></br>To prevent data loss, please create a dedicated subdirectory for your files (e.g., <code>E:\\ebooks\\</code> or <code>/mnt/media/ebooks/</code>) and select that as your shelf root.',
                 id: 'QWjkQT',
               }"
             >
@@ -84,14 +84,14 @@
     :title="
       $formatMessage({
         description: 'Form add/edit library: General - root directory selection dialog title',
-        defaultMessage: 'Library root directory',
+        defaultMessage: 'Shelf root directory',
         id: 'CJaS7j',
       })
     "
     :ok-text="
       $formatMessage({
         description:
-          'Form add/edit library: General - root directory selection dialog confirmation button label',
+          'Form add/edit shelf: General - root directory selection dialog confirmation button label',
         defaultMessage: 'Ok',
         id: 'laWvMU',
       })
